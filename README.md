@@ -14,10 +14,10 @@
 -  **多執行緒**：每位玩家獨立執行緒處理，搭配 Lock 保護共用資料
 -  **心跳機制**：每 5 秒 ping/pong 偵測連線狀態
 -  **Tkinter 介面**：即時顯示方向、分數、準確率、反應時間與排行
-###單人模式時遊玩畫面
-<img width="869" height="1277" alt="網路程設1" src="https://github.com/user-attachments/assets/19994568-03dc-4ee8-8580-01e07114753a" />
-###雙人模式結算時畫面
-<img width="1449" height="1001" alt="image" src="https://github.com/user-attachments/assets/7b68a491-f06e-475d-bd9f-219f1b5d118e" />
+<p align="center">
+  <img height="400" alt="單人模式" src="https://github.com/user-attachments/assets/19994568-03dc-4ee8-8580-01e07114753a" />
+  <img height="400" alt="雙人模式結算" src="https://github.com/user-attachments/assets/7b68a491-f06e-475d-bd9f-219f1b5d118e" />
+</p>
 
 
 ##  技術
